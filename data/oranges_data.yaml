@@ -1,0 +1,9 @@
+train: ./oranges-dataset/train/images/train
+val:  ./oranges-dataset/train/images/val/
+test: ./oranges-dataset/train/images/test/
+
+# number of classes
+nc: 1
+
+# class names
+names: ["orange"]
